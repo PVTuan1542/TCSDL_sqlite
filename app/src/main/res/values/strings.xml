@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">TCSDL</string>
+    <string name="name">Name</string>
+    <string name="id">ID</string>
+    <string name="i_m_to_n">Điểm Toán</string>
+    <string name="diemli">Điểm Lí</string>
+    <string name="nhap">Nhập</string>
+    <string name="nhapdiemli">Nhap điểm lí</string>
+    <string name="nhaphoa">Nhap hóa</string>
+    <string name="diemhoa">Điểm Hóa</string>
+    <string name="nhap_name">Nhap name</string>
+    <string name="diemtoan">Nhap điểm toán</string>
+    <string name="nhap_id">Nhap id</string>
+    <string name="bt_them">Thêm</string>
+    <string name="bt_sua">Sửa</string>
+    <string name="bt_xoa">Xóa</string>
+
+</resources>
